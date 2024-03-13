@@ -6,32 +6,32 @@ Hasil JMeter sebelum profiling:
 
 all student:
 ![img.png](src/main/resources/static/images/img.png)
-![img.png](img3.png)
-![img.png](img6.png)
+![img.png](src/main/resources/static/images/img3.png)
+![img.png](src/main/resources/static/images/img6.png)
 
 all student name:
-![img.png](img1.png)
-![img.png](img4.png)
-![img.png](img7.png)
+![img.png](src/main/resources/static/images/img1.png)
+![img.png](src/main/resources/static/images/img4.png)
+![img.png](src/main/resources/static/images/img7.png)
 
 highest gpa:
-![img.png](img2.png)
-![img.png](img5.png)
-![img.png](img8.png)
+![img.png](src/main/resources/static/images/img2.png)
+![img.png](src/main/resources/static/images/img5.png)
+![img.png](src/main/resources/static/images/img8.png)
 
 Hasil JMeter setelah profiling:
 
 all student:
-![img.png](img9.png)
-![img.png](img10.png)
+![img.png](src/main/resources/static/images/img9.png)
+![img.png](src/main/resources/static/images/img10.png)
 
 all student name:
-![img.png](img11.png)
-![img.png](img12.png)
+![img.png](src/main/resources/static/images/img11.png)
+![img.png](src/main/resources/static/images/img12.png)
 
 highest gpa:
-![img.png](img13.png)
-![img.png](img14.png)
+![img.png](src/main/resources/static/images/img13.png)
+![img.png](src/main/resources/static/images/img14.png)
 
 Kesimpulan:
 Setelah melakukan pengoptimalan performa dan pengujian menggunakan JMeter serta profiling dengan IntelliJ Profiler, terlihat peningkatan signifikan dalam respons program dan waktu eksekusi. Alur program yang semula memakan waktu lama berhasil dioptimalkan, terbukti dengan penurunan drastis dalam waktu eksekusi method-method. Dengan demikian, dapat disimpulkan bahwa optimalisasi tersebut berhasil meningkatkan performa program secara keseluruhan, sekaligus mempercepat respon terhadap permintaan.
